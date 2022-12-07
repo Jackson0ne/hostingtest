@@ -1,0 +1,1 @@
+document.getElementById("test").style.animation = `textsize 2s infinite forwards`
